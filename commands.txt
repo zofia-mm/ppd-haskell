@@ -1,0 +1,6 @@
+
+cd Programming/ppd-haskell-console/
+
+:load {file_name}       load file
+:r                      reload
+:quit                   turn ghci off
